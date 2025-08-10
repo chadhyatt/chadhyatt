@@ -11,4 +11,4 @@ ltc: ltc1qm6ka28s6fasdzfm9jl9076k0gendu3ejkmvfhu
 eth: 0x2E4ec37c902f3143e81e5608Ba714eb6daF5DCD6
 ```
 
-Every bit helps me be able to spend more time working on and contributing to open-source projects, and work on new projects too.
+Every bit helps me be able to spend more time working on and contributing to open-source projects, and work on new stuff too.
